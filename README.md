@@ -1,1 +1,2 @@
-# This is a collection of College realted study materials 
+# This is a readme file.
+I'm learning Git and Github.
